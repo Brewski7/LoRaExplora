@@ -1,9 +1,10 @@
-/*
+/* Library TinyGPS++: https://github.com/ress997/TinyGPSPlusPlus
+ * Author: user ress997
+ * 
  * Some code modified from https://youtu.be/q2llnFjRSxk?si=uqncJ97KgL861P5E&t=225 , Time Library and TinyGPS++ Library Examples
  */
 #define GPS_DEBUG 0
 
-//#include <TimeLib.h>
 #include <TinyGPS++.h>
 TinyGPSPlus gps;
 

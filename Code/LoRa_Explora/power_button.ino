@@ -1,5 +1,6 @@
 /*
-  Selective code used from SparkFun Soft Power Switch Example
+  Selective code used and adapted from SparkFun Soft Power Switch Example
+  In this version manaul SOS is not yet implemented.
 */
 
 long powerPressedStartTime = 0;

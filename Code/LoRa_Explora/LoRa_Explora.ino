@@ -1,8 +1,17 @@
+/* Library used: https://github.com/Bodmer/TFT_eSPI
+ * Author: user Bodmer
+ * 
+ * Library used: https://github.com/PaulStoffregen/Time/tree/master
+ * Author: user PaulStoffregen
+ */
+
+
+
 #include "TFT_eSPI.h"
 #include <TimeLib.h>
 #include "sprites.h"
 
-#define DEBUG 1 //only for debugging
+#define DEBUG 0 //only for debugging
 
 /*
  *Pinout 
